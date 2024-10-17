@@ -1,0 +1,23 @@
+
+
+.oddn{
+    background-color: #FF999C;
+    color: #000000;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#numdos{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#numtres{
+    font-size: 36px;
+}
+
+#numcua{
+    background-color: #90EE90;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
